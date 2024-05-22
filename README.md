@@ -1,1 +1,1 @@
-The file contains the respective solutions for all of the questions inside cerinte_proiect.pdf. 
+The file includes solutions for all the questions in Cerinte_proiect.pdf. <br /> The BD.docx document details the project requirements, providing explanations of the underlying rationale and additional queries demonstrating database usage. <br /> The PROIECT.sql file contains the table creation scripts, inserts, and some updates. The conceptual_ERD illustrates examples of many-to-many relationships.
